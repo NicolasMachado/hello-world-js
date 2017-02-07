@@ -1,4 +1,4 @@
-
-	function salut(phrase) {
-		console.log(phrase);		
-	}
+'use strict';
+function salut(phrase) {
+	console.log(phrase);		
+}
